@@ -6,7 +6,14 @@ categories:
 tags:
   - Post Formats
   - readability
-  - standard
+  - standard 
+classes: wide
+card-featured: "true"
+card-image: "/assets/images/traveloka-logo.png"
+card-bg-color: "#FBFBFB"
+card-title: "Engineering Lead"
+card-subtitle: "Traveloka <br/> Nov 2018 to Dec 2020"
+card-description: "This post has been updated and should show a modified date if used in a layout."
 ---
 
 This post has been updated and should show a modified date if used in a layout.

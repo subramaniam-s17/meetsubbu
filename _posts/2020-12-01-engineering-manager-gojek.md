@@ -7,6 +7,13 @@ tags:
   - Post Formats
   - readability
   - standard
+classes: wide
+card-featured: "true"
+card-image: "/assets/images/gojek-logo.png"
+card-bg-color: "#05A94B"
+card-title: "Engineering Manager"
+card-subtitle: "Gojek <br/> Dec 2020 to Present"
+card-description: "This post has been updated and should show a modified date if used in a layout."
 ---
 
 This post has been updated and should show a modified date if used in a layout.
