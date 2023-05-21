@@ -13,7 +13,7 @@ card-image: "/assets/images/traveloka-logo.png"
 card-bg-color: "#FBFBFB"
 card-title: "Engineering Lead"
 card-subtitle: "Traveloka <br/> Nov 2018 to Dec 2020"
-card-description: "This post has been updated and should show a modified date if used in a layout."
+card-description: "After gaining a lot of experience during my entrepreneurship journey, took an opportunity to join..."
 ---
 
 After gaining a lot of experience during my entrepreneurship journey, took an opportunity to join **Traveloka's early stage India team** as an Engineering Lead. 

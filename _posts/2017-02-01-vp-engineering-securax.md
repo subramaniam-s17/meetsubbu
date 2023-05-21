@@ -13,7 +13,7 @@ card-image: "/assets/images/securax-logo.png"
 card-bg-color: "#05A94B"
 card-title: "VP Engineering"
 card-subtitle: "Securax <br/> Feb 2017 to Oct 2018"
-card-description: "This post has been updated and should show a modified date if used in a layout."
+card-description: "I have joined SecurAX as VP of Engineering on Feb 2017, during my tenure I was esteemed to build..."
 ---
 
 🚀 I have **joined SecurAX as VP of Engineering** on Feb 2017, during my tenure I was esteemed to build a SaaS solution for workforce management, and collaboration with key stakeholders to propel SecurAX to new heights.

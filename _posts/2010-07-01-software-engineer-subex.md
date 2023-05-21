@@ -11,9 +11,9 @@ classes: wide
 card-featured: "true"
 card-image: "/assets/images/subex-logo.png"
 card-bg-color: "#05A94B"
-card-title: "System Analyst"
+card-title: "Software Engineer"
 card-subtitle: "Subex <br/> Jul 2010 to Jan 2014"
-card-description: "This post has been updated and should show a modified date if used in a layout."
+card-description: "I began my career as a software engineer with Subex and became a key contributor to a significant..."
 ---
 
 🌟 I began my career as a software engineer with Subex and became a key contributor to a significant project involving the transformation of a .NET-based application into a Java web application. The application served as an essential tool for major Telecom operators, helping them identify revenue leaks within their systems.

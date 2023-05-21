@@ -13,7 +13,7 @@ card-image: "/assets/images/redbus-logo.svg"
 card-bg-color: "#FFFFFF"
 card-title: "Technical Lead"
 card-subtitle: "Redbus <br/> Jun 2014 to Apr 2016"
-card-description: "This post has been updated and should show a modified date if used in a layout."
+card-description: "I have joined Redbus as an early team member of B2B platform, I played a crucial role in the..."
 ---
 
 🚌 I have joined Redbus as an early team member of B2B platform, I played a crucial role in the development of a B2B platform used by bus operators, retail agents, and API partners. The objective was to create a robust and efficient system that would facilitate seamless operations and collaboration among stakeholders in the transportation industry.

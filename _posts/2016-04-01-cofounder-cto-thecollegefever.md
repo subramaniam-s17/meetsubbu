@@ -13,7 +13,7 @@ card-image: "/assets/images/thecollegefever-logo.png"
 card-bg-color: "#FBFBFB"
 card-title: "CoFounder & CTO"
 card-subtitle: "TheCollegeFever <br/> Apr 2016 to Jan 2017"
-card-description: "This post has been updated and should show a modified date if used in a layout."
+card-description: "On a random day, was having a casual discussion with a couple of friends about the need for a..."
 ---
 
 🌍 On a random day, was having a casual discussion with a couple of friends about the need for a platform that would connect students from Tier 2 city colleges in India and enable them to showcase their talents, explore events, and participate in fests which happens in Tier 1 Colleges. 

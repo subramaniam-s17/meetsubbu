@@ -13,7 +13,7 @@ card-image: "/assets/images/gojek-logo.png"
 card-bg-color: "#05A94B"
 card-title: "Engineering Manager"
 card-subtitle: "Gojek <br/> Dec 2020 to Present"
-card-description: "This post has been updated and should show a modified date if used in a layout."
+card-description: "Joined Gojek Logistics team on Dec 2020 as an Engineering manager. I was entrusted with managing a..."
 ---
 
 👥 Joined Gojek Logistics team on Dec 2020 as an **Engineering manager**. I was entrusted with managing a team of 8+ engineers who had the crucial responsibility of building and delivering a platform to support the company's Logistics business. Our goal was to create a robust and efficient system that would enhance the overall logistics operations.
