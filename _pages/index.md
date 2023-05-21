@@ -19,7 +19,7 @@ I have had the privilege of working with both startups and large enterprises, gi
 
 Let's power up innovation together and forge new paths in the world of engineering. Connect with me to spark ideas and bring game-changing solutions to life!
 
-## Recent Experiences
+## Experience
 <div class="card-container">
 {% for post in site.posts %}
     {% if post.card-featured %}

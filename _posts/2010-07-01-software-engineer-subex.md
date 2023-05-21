@@ -7,6 +7,13 @@ tags:
   - Post Formats
   - readability
   - standard
+classes: wide
+card-featured: "true"
+card-image: "/assets/images/subex-logo.png"
+card-bg-color: "#05A94B"
+card-title: "System Analyst"
+card-subtitle: "Subex <br/> Jul 2010 to Jan 2014"
+card-description: "This post has been updated and should show a modified date if used in a layout."
 ---
 
 This post has been updated and should show a modified date if used in a layout.

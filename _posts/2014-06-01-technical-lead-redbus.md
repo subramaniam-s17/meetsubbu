@@ -7,6 +7,13 @@ tags:
   - Post Formats
   - readability
   - standard
+classes: wide
+card-featured: "true"
+card-image: "/assets/images/redbus-logo.svg"
+card-bg-color: "#FFFFFF"
+card-title: "Technical Lead"
+card-subtitle: "Redbus <br/> Jun 2014 to Apr 2016"
+card-description: "This post has been updated and should show a modified date if used in a layout."
 ---
 
 This post has been updated and should show a modified date if used in a layout.
