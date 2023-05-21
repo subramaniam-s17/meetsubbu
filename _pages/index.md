@@ -4,7 +4,7 @@ title: "Hello there 👋"
 classes: wide
 ---
 
-I'm Subramaniam Srinivasan, people calls me **Subbu**. I'm a visionary engineering manager with a passion for innovation and a proven track record of driving exceptional results by leading and delivering innovative projects.
+I'm Subramaniam Srinivasan, people calls me **Subbu**. I'm a seasoned engineering manager with a passion for innovation and a proven track record of driving exceptional results by leading and delivering innovative projects.
 
 Over more than a decade **(13+ years**) I have played multiple roles in the Software industry, **starting as a Software engineer, moving to many leadership roles, and as an Entrepreneur**. I really enjoy wearing multiple hats, which have not only given me the opportunity to understand each aspect of the Software development life cycle but also made me mature enough to understand the perspective of different stakeholders.
 
@@ -19,6 +19,7 @@ I have had the privilege of working with both startups and large enterprises, gi
 
 Let's power up innovation together and forge new paths in the world of engineering. Connect with me to spark ideas and bring game-changing solutions to life!
 
+## Recent Experiences
 <div class="card-container">
 {% for post in site.posts %}
     {% if post.card-featured %}
