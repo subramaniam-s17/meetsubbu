@@ -31,6 +31,7 @@ The transition to the modernized system positioned the B2B platform as a leading
 * Converting a monolith to micro services
 * Infrastructure maintenance
 * Mentoring junior engineers
+* Code review and design review
 
 ## Tech Stack
 * Google Web Toolkit (GWT) for building Web application
