@@ -10,7 +10,7 @@ tags:
 classes: wide
 card-featured: "true"
 card-image: "/assets/images/securax-logo.png"
-card-bg-color: "#05A94B"
+card-bg-color: "#FFFFFF"
 card-title: "VP Engineering"
 card-subtitle: "Securax <br/> Feb 2017 to Oct 2018"
 card-description: "I have joined SecurAX as VP of Engineering on Feb 2017, during my tenure I was esteemed to build..."

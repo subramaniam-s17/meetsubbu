@@ -10,7 +10,7 @@ tags:
 classes: wide
 card-featured: "true"
 card-image: "/assets/images/subex-logo.png"
-card-bg-color: "#05A94B"
+card-bg-color: "#FFFFFF"
 card-title: "Software Engineer"
 card-subtitle: "Subex <br/> Jul 2010 to Jan 2014"
 card-description: "I began my career as a software engineer with Subex and became a key contributor to a significant..."

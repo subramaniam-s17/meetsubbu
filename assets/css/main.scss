@@ -50,11 +50,23 @@ html {
     text-decoration: none !important;
   }
 
-  .card-img {
+  .card > a:hover .card-img {
+    box-shadow: none !important;
+  }
+
+  .card-header {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    width: 100%;
-    height: 150px;
+  }
+
+  .card-img {
+    max-height: 150px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 
   .card-title {

@@ -25,7 +25,9 @@ Let's power up innovation together and forge new paths in the world of engineeri
     {% if post.card-featured %}
         <div class="card">
             <a href="{{ post.url }}">
-                <img class="card-img" style="background-color: {{ post.card-bg-color }}" src="{{ post.card-image }}">
+                <div class="card-header" style="background-color: {{ post.card-bg-color }}">
+                    <img class="card-img" src="{{ post.card-image }}">
+                </div>
                 <div class="card-title">{{ post.card-title }}</div>
                 <div class="card-subtitle">{{ post.card-subtitle }}</div>
                 <div class="card-description">{{ post.card-description }}</div>

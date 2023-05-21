@@ -10,7 +10,7 @@ tags:
 classes: wide
 card-featured: "true"
 card-image: "/assets/images/thecollegefever-logo.png"
-card-bg-color: "#FBFBFB"
+card-bg-color: "#FFFFFF"
 card-title: "CoFounder & CTO"
 card-subtitle: "TheCollegeFever <br/> Apr 2016 to Jan 2017"
 card-description: "On a random day, was having a casual discussion with a couple of friends about the need for a..."
