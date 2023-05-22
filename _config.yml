@@ -18,8 +18,18 @@ title_separator: "-"
 email: subramaniam.s17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Subramaniam Srinivasan, people calls me **Subbu**. I'm a seasoned engineering manager with a passion for innovation and a proven track record of driving exceptional results by leading and delivering innovative projects.
+
+# Social Media Settings
 twitter_username: subramaniams17
 github_username: subramaniam-s17
+
+# Google Analytics Settings
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-S0CD1W7P4L"
+    anonymize_ip: false
+
 minimal_mistakes_skin: dark
 search: true
 
