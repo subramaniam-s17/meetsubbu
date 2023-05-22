@@ -1,6 +1,6 @@
 ---
 title: "Engineering Manager @ Gojek"
-last_modified_at: 2021-05-02T23:11:02+05:30
+last_modified_at: 2023-05-22T23:11:02+05:30
 categories:
   - Blog
 tags:
